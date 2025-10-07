@@ -1,149 +1,814 @@
 {
   "title": "University teaching",
-  "description": "Basic introduction to teaching at the university level. Helping and encouraging with students, creating courses, evaluation of mastery, classroom management. This course covers essential pedagogical principles, course design strategies, assessment techniques, and classroom management skills necessary for effective university teaching. A capstone project allows participants to integrate these skills into a practical application.",
+  "links": {},
   "modules": [
     {
       "title": "Foundations of University Teaching",
-      "description": "An introduction to the principles and practices of effective university teaching.",
       "topics": [
-        { "title": "Overview", "description": "Course introduction and objectives.", "path": "README.md", "type": "instruction", "state": "stable" },
-        { "title": "The Role of the University Teacher", "description": "Exploring the multifaceted responsibilities of a university educator.", "path": "instruction/the-role-of-the-university-teacher/the-role-of-the-university-teacher.md", "type": "instruction", "state": "stub" },
-        { "title": "Learning Theories and Their Application", "description": "Understanding different learning theories and how to apply them in the classroom.", "path": "instruction/learning-theories-and-their-application/learning-theories-and-their-application.md", "type": "instruction", "state": "stub" },
-        { "title": "Creating an Inclusive Learning Environment", "description": "Strategies for fostering an inclusive and equitable classroom.", "path": "instruction/creating-an-inclusive-learning-environment/creating-an-inclusive-learning-environment.md", "type": "instruction", "state": "stub" },
-        { "title": "Understanding Student Diversity", "description": "Recognizing and responding to the diverse backgrounds and needs of students.", "path": "instruction/understanding-student-diversity/understanding-student-diversity.md", "type": "instruction", "state": "stub" },
-        { "title": "Ethical Considerations in Teaching", "description": "Navigating the ethical dilemmas and responsibilities of university teaching.", "path": "instruction/ethical-considerations-in-teaching/ethical-considerations-in-teaching.md", "type": "instruction", "state": "stub" },
-        { "title": "Effective Communication Skills", "description": "Developing clear and engaging communication strategies for teaching.", "path": "instruction/effective-communication-skills/effective-communication-skills.md", "type": "instruction", "state": "stub" },
-        { "title": "Motivating Students to Learn", "description": "Techniques for inspiring and engaging students in the learning process.", "path": "instruction/motivating-students-to-learn/motivating-students-to-learn.md", "type": "instruction", "state": "stub" },
-        { "title": "Setting Learning Objectives", "description": "Defining clear and measurable learning objectives for your courses.", "path": "instruction/setting-learning-objectives/setting-learning-objectives.md", "type": "instruction", "state": "stub" },
-        { "title": "Backward Design Principles", "description": "Designing courses by working backward from desired learning outcomes.", "path": "instruction/backward-design-principles/backward-design-principles.md", "type": "instruction", "state": "stub" },
-        { "title": "Reflective Practice in Teaching", "description": "Developing habits of reflection to continuously improve teaching effectiveness.", "path": "instruction/reflective-practice-in-teaching/reflective-practice-in-teaching.md", "type": "instruction", "state": "stub" },
-        { "title": "Legal Aspects of Teaching", "description": "Understanding the legal framework relevant to teaching at the university level.", "path": "instruction/legal-aspects-of-teaching/legal-aspects-of-teaching.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Overview",
+          "type": "instruction",
+          "path": "README.md",
+          "id": "630c83fdecf84be69cca9cf7c779cb97",
+          "state": "stable",
+          "description": "Course introduction and objectives.",
+          "commit": "d05d08d6437868057a8a78e34ad82a2dcf2a9c80"
+        },
+        {
+          "title": "The Role of the University Teacher",
+          "type": "instruction",
+          "path": "instruction/the-role-of-the-university-teacher/the-role-of-the-university-teacher.md",
+          "id": "83d8e65d196c41a996ae7e37f8d6cedb",
+          "state": "stub",
+          "description": "Exploring the multifaceted responsibilities of a university educator."
+        },
+        {
+          "title": "Learning Theories and Their Application",
+          "type": "instruction",
+          "path": "instruction/learning-theories-and-their-application/learning-theories-and-their-application.md",
+          "id": "6d5e08b0084b4452ab83f85f89724933",
+          "state": "stub",
+          "description": "Understanding different learning theories and how to apply them in the classroom."
+        },
+        {
+          "title": "Creating an Inclusive Learning Environment",
+          "type": "instruction",
+          "path": "instruction/creating-an-inclusive-learning-environment/creating-an-inclusive-learning-environment.md",
+          "id": "3c39c7bba99140bba4dbd2521579d775",
+          "state": "stub",
+          "description": "Strategies for fostering an inclusive and equitable classroom."
+        },
+        {
+          "title": "Understanding Student Diversity",
+          "type": "instruction",
+          "path": "instruction/understanding-student-diversity/understanding-student-diversity.md",
+          "id": "2e89f08fcaa045c7aece1273a45eb2fb",
+          "state": "stub",
+          "description": "Recognizing and responding to the diverse backgrounds and needs of students."
+        },
+        {
+          "title": "Ethical Considerations in Teaching",
+          "type": "instruction",
+          "path": "instruction/ethical-considerations-in-teaching/ethical-considerations-in-teaching.md",
+          "id": "a8a4a26889334cfc91398bfd0c763b8d",
+          "state": "stub",
+          "description": "Navigating the ethical dilemmas and responsibilities of university teaching."
+        },
+        {
+          "title": "Effective Communication Skills",
+          "type": "instruction",
+          "path": "instruction/effective-communication-skills/effective-communication-skills.md",
+          "id": "04dbc5b0f0454394a415612c7f8aa2aa",
+          "state": "stub",
+          "description": "Developing clear and engaging communication strategies for teaching."
+        },
+        {
+          "title": "Motivating Students to Learn",
+          "type": "instruction",
+          "path": "instruction/motivating-students-to-learn/motivating-students-to-learn.md",
+          "id": "142cbff8a64044069c7b09d2c443c904",
+          "state": "stub",
+          "description": "Techniques for inspiring and engaging students in the learning process."
+        },
+        {
+          "title": "Setting Learning Objectives",
+          "type": "instruction",
+          "path": "instruction/setting-learning-objectives/setting-learning-objectives.md",
+          "id": "408a95ddcdcf4d4faa5dd9bd4d012aec",
+          "state": "stub",
+          "description": "Defining clear and measurable learning objectives for your courses."
+        },
+        {
+          "title": "Backward Design Principles",
+          "type": "instruction",
+          "path": "instruction/backward-design-principles/backward-design-principles.md",
+          "id": "3d53368d618940768e81d1c9df9272ab",
+          "state": "stub",
+          "description": "Designing courses by working backward from desired learning outcomes."
+        },
+        {
+          "title": "Reflective Practice in Teaching",
+          "type": "instruction",
+          "path": "instruction/reflective-practice-in-teaching/reflective-practice-in-teaching.md",
+          "id": "1629fa367a23459dac1245ed9a142cba",
+          "state": "stub",
+          "description": "Developing habits of reflection to continuously improve teaching effectiveness."
+        },
+        {
+          "title": "Legal Aspects of Teaching",
+          "type": "instruction",
+          "path": "instruction/legal-aspects-of-teaching/legal-aspects-of-teaching.md",
+          "id": "b1d3e8d1ca1d4b86b2c152a8638f65a2",
+          "state": "stub",
+          "description": "Understanding the legal framework relevant to teaching at the university level."
+        }
       ]
     },
     {
       "title": "Course Design and Development",
-      "description": "Strategies for designing and developing effective and engaging university courses.",
       "topics": [
-        { "title": "Designing a Course Syllabus", "description": "Creating a comprehensive and informative course syllabus.", "path": "instruction/designing-a-course-syllabus/designing-a-course-syllabus.md", "type": "instruction", "state": "stub" },
-        { "title": "Selecting Course Content", "description": "Choosing relevant and appropriate content for your course.", "path": "instruction/selecting-course-content/selecting-course-content.md", "type": "instruction", "state": "stub" },
-        { "title": "Organizing Course Materials", "description": "Structuring course materials for clarity and accessibility.", "path": "instruction/organizing-course-materials/organizing-course-materials.md", "type": "instruction", "state": "stub" },
-        { "title": "Integrating Technology into Teaching", "description": "Leveraging technology to enhance the learning experience.", "path": "instruction/integrating-technology-into-teaching/integrating-technology-into-teaching.md", "type": "instruction", "state": "stub" },
-        { "title": "Creating Engaging Lectures", "description": "Techniques for delivering dynamic and interactive lectures.", "path": "instruction/creating-engaging-lectures/creating-engaging-lectures.md", "type": "instruction", "state": "stub" },
-        { "title": "Facilitating Discussions", "description": "Strategies for leading effective and productive classroom discussions.", "path": "instruction/facilitating-discussions/facilitating-discussions.md", "type": "instruction", "state": "stub" },
-        { "title": "Active Learning Strategies", "description": "Implementing active learning techniques to promote student engagement.", "path": "instruction/active-learning-strategies/active-learning-strategies.md", "type": "instruction", "state": "stub" },
-        { "title": "Group Work and Collaboration", "description": "Designing and managing effective group work activities.", "path": "instruction/group-work-and-collaboration/group-work-and-collaboration.md", "type": "instruction", "state": "stub" },
-        { "title": "Using Case Studies", "description": "Employing case studies to promote critical thinking and problem-solving.", "path": "instruction/using-case-studies/using-case-studies.md", "type": "instruction", "state": "stub" },
-        { "title": "Problem-Based Learning", "description": "Implementing problem-based learning approaches in your course.", "path": "instruction/problem-based-learning/problem-based-learning.md", "type": "instruction", "state": "stub" },
-        { "title": "Project-Based Learning", "description": "Designing and managing project-based learning experiences.", "path": "instruction/project-based-learning/project-based-learning.md", "type": "instruction", "state": "stub" },
-        { "title": "Blended Learning Approaches", "description": "Combining online and face-to-face learning methods.", "path": "instruction/blended-learning-approaches/blended-learning-approaches.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Designing a Course Syllabus",
+          "type": "instruction",
+          "path": "instruction/designing-a-course-syllabus/designing-a-course-syllabus.md",
+          "id": "48da3386709742239d352beabd45d37f",
+          "state": "stub",
+          "description": "Creating a comprehensive and informative course syllabus."
+        },
+        {
+          "title": "Selecting Course Content",
+          "type": "instruction",
+          "path": "instruction/selecting-course-content/selecting-course-content.md",
+          "id": "5feb11c8b42b47eca699a860ca1e0612",
+          "state": "stub",
+          "description": "Choosing relevant and appropriate content for your course."
+        },
+        {
+          "title": "Organizing Course Materials",
+          "type": "instruction",
+          "path": "instruction/organizing-course-materials/organizing-course-materials.md",
+          "id": "536067809c9c49daadc107687a770e59",
+          "state": "stub",
+          "description": "Structuring course materials for clarity and accessibility."
+        },
+        {
+          "title": "Integrating Technology into Teaching",
+          "type": "instruction",
+          "path": "instruction/integrating-technology-into-teaching/integrating-technology-into-teaching.md",
+          "id": "68375c6a5c654d079650d699bf128799",
+          "state": "stub",
+          "description": "Leveraging technology to enhance the learning experience."
+        },
+        {
+          "title": "Creating Engaging Lectures",
+          "type": "instruction",
+          "path": "instruction/creating-engaging-lectures/creating-engaging-lectures.md",
+          "id": "e27d75aa7e8b41379336f5ae13fa99ad",
+          "state": "stub",
+          "description": "Techniques for delivering dynamic and interactive lectures."
+        },
+        {
+          "title": "Facilitating Discussions",
+          "type": "instruction",
+          "path": "instruction/facilitating-discussions/facilitating-discussions.md",
+          "id": "b2cdd733b97b45af8a4d750192b6fdf6",
+          "state": "stub",
+          "description": "Strategies for leading effective and productive classroom discussions."
+        },
+        {
+          "title": "Active Learning Strategies",
+          "type": "instruction",
+          "path": "instruction/active-learning-strategies/active-learning-strategies.md",
+          "id": "14f02d708ccc4bcfa4d1d4cabb6157b7",
+          "state": "stub",
+          "description": "Implementing active learning techniques to promote student engagement."
+        },
+        {
+          "title": "Group Work and Collaboration",
+          "type": "instruction",
+          "path": "instruction/group-work-and-collaboration/group-work-and-collaboration.md",
+          "id": "7c68a367f62b4f8581b5e9194f450064",
+          "state": "stub",
+          "description": "Designing and managing effective group work activities."
+        },
+        {
+          "title": "Using Case Studies",
+          "type": "instruction",
+          "path": "instruction/using-case-studies/using-case-studies.md",
+          "id": "43aacb29c6314140b28eeec1efaf29af",
+          "state": "stub",
+          "description": "Employing case studies to promote critical thinking and problem-solving."
+        },
+        {
+          "title": "Problem-Based Learning",
+          "type": "instruction",
+          "path": "instruction/problem-based-learning/problem-based-learning.md",
+          "id": "aa7a2e478dd543258fe655414c98da5e",
+          "state": "stub",
+          "description": "Implementing problem-based learning approaches in your course."
+        },
+        {
+          "title": "Project-Based Learning",
+          "type": "instruction",
+          "path": "instruction/project-based-learning/project-based-learning.md",
+          "id": "87e8aeab0c0a48f482e1975ba2f674a7",
+          "state": "stub",
+          "description": "Designing and managing project-based learning experiences."
+        },
+        {
+          "title": "Blended Learning Approaches",
+          "type": "instruction",
+          "path": "instruction/blended-learning-approaches/blended-learning-approaches.md",
+          "id": "43c244bd25954e3e927126c769c258ea",
+          "state": "stub",
+          "description": "Combining online and face-to-face learning methods."
+        }
       ]
     },
     {
       "title": "Assessment and Evaluation",
-      "description": "Methods for assessing student learning and evaluating teaching effectiveness.",
       "topics": [
-        { "title": "Principles of Assessment", "description": "Understanding the fundamental principles of assessment.", "path": "instruction/principles-of-assessment/principles-of-assessment.md", "type": "instruction", "state": "stub" },
-        { "title": "Formative Assessment Techniques", "description": "Using formative assessment to monitor student progress and provide feedback.", "path": "instruction/formative-assessment-techniques/formative-assessment-techniques.md", "type": "instruction", "state": "stub" },
-        { "title": "Summative Assessment Strategies", "description": "Designing effective summative assessments to evaluate student learning.", "path": "instruction/summative-assessment-strategies/summative-assessment-strategies.md", "type": "instruction", "state": "stub" },
-        { "title": "Creating Effective Quizzes and Exams", "description": "Developing fair and reliable quizzes and exams.", "path": "instruction/creating-effective-quizzes-and-exams/creating-effective-quizzes-and-exams.md", "type": "instruction", "state": "stub" },
-        { "title": "Designing Rubrics", "description": "Creating rubrics to ensure consistent and transparent grading.", "path": "instruction/designing-rubrics/designing-rubrics.md", "type": "instruction", "state": "stub" },
-        { "title": "Grading and Providing Feedback", "description": "Strategies for providing constructive and timely feedback to students.", "path": "instruction/grading-and-providing-feedback/grading-and-providing-feedback.md", "type": "instruction", "state": "stub" },
-        { "title": "Peer Assessment", "description": "Using peer assessment to promote student learning and self-reflection.", "path": "instruction/peer-assessment/peer-assessment.md", "type": "instruction", "state": "stub" },
-        { "title": "Self-Assessment", "description": "Encouraging students to engage in self-assessment.", "path": "instruction/self-assessment/self-assessment.md", "type": "instruction", "state": "stub" },
-        { "title": "Assessment for Learning", "description": "Using assessment to inform and improve teaching practices.", "path": "instruction/assessment-for-learning/assessment-for-learning.md", "type": "instruction", "state": "stub" },
-        { "title": "Evaluating Teaching Effectiveness", "description": "Methods for evaluating your own teaching and identifying areas for improvement.", "path": "instruction/evaluating-teaching-effectiveness/evaluating-teaching-effectiveness.md", "type": "instruction", "state": "stub" },
-        { "title": "Student Evaluations of Teaching", "description": "Understanding and interpreting student evaluations of teaching.", "path": "instruction/student-evaluations-of-teaching/student-evaluations-of-teaching.md", "type": "instruction", "state": "stub" },
-        { "title": "Using Data to Improve Teaching", "description": "Analyzing assessment data to inform instructional decisions.", "path": "instruction/using-data-to-improve-teaching/using-data-to-improve-teaching.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Principles of Assessment",
+          "type": "instruction",
+          "path": "instruction/principles-of-assessment/principles-of-assessment.md",
+          "id": "6f11d5128a094f2084053561b1576914",
+          "state": "stub",
+          "description": "Understanding the fundamental principles of assessment."
+        },
+        {
+          "title": "Formative Assessment Techniques",
+          "type": "instruction",
+          "path": "instruction/formative-assessment-techniques/formative-assessment-techniques.md",
+          "id": "c59d5cdf01924230a4ca85bb779c8122",
+          "state": "stub",
+          "description": "Using formative assessment to monitor student progress and provide feedback."
+        },
+        {
+          "title": "Summative Assessment Strategies",
+          "type": "instruction",
+          "path": "instruction/summative-assessment-strategies/summative-assessment-strategies.md",
+          "id": "c98f4ce144064750a71c3537e7cfa279",
+          "state": "stub",
+          "description": "Designing effective summative assessments to evaluate student learning."
+        },
+        {
+          "title": "Creating Effective Quizzes and Exams",
+          "type": "instruction",
+          "path": "instruction/creating-effective-quizzes-and-exams/creating-effective-quizzes-and-exams.md",
+          "id": "a11cbe962b5c4926ad8ac5e967c56c7f",
+          "state": "stub",
+          "description": "Developing fair and reliable quizzes and exams."
+        },
+        {
+          "title": "Designing Rubrics",
+          "type": "instruction",
+          "path": "instruction/designing-rubrics/designing-rubrics.md",
+          "id": "3371ff75cf67421082433d43bfcdd287",
+          "state": "stub",
+          "description": "Creating rubrics to ensure consistent and transparent grading."
+        },
+        {
+          "title": "Grading and Providing Feedback",
+          "type": "instruction",
+          "path": "instruction/grading-and-providing-feedback/grading-and-providing-feedback.md",
+          "id": "7540eab3e7fa46c4b17f9345e59ba1cc",
+          "state": "stub",
+          "description": "Strategies for providing constructive and timely feedback to students."
+        },
+        {
+          "title": "Peer Assessment",
+          "type": "instruction",
+          "path": "instruction/peer-assessment/peer-assessment.md",
+          "id": "7445796eca594308a3bbf75a5fab7c3a",
+          "state": "stub",
+          "description": "Using peer assessment to promote student learning and self-reflection."
+        },
+        {
+          "title": "Self-Assessment",
+          "type": "instruction",
+          "path": "instruction/self-assessment/self-assessment.md",
+          "id": "0d5bc98a22b8479ba303db4897c7ea40",
+          "state": "stub",
+          "description": "Encouraging students to engage in self-assessment."
+        },
+        {
+          "title": "Assessment for Learning",
+          "type": "instruction",
+          "path": "instruction/assessment-for-learning/assessment-for-learning.md",
+          "id": "c0bc3181140c42c6be281a75a1c85ccd",
+          "state": "stub",
+          "description": "Using assessment to inform and improve teaching practices."
+        },
+        {
+          "title": "Evaluating Teaching Effectiveness",
+          "type": "instruction",
+          "path": "instruction/evaluating-teaching-effectiveness/evaluating-teaching-effectiveness.md",
+          "id": "3e65090a0a5d40ce9f3f1e735651bc90",
+          "state": "stub",
+          "description": "Methods for evaluating your own teaching and identifying areas for improvement."
+        },
+        {
+          "title": "Student Evaluations of Teaching",
+          "type": "instruction",
+          "path": "instruction/student-evaluations-of-teaching/student-evaluations-of-teaching.md",
+          "id": "8974b066a86c4dbd8e1a587f0ea60e9d",
+          "state": "stub",
+          "description": "Understanding and interpreting student evaluations of teaching."
+        },
+        {
+          "title": "Using Data to Improve Teaching",
+          "type": "instruction",
+          "path": "instruction/using-data-to-improve-teaching/using-data-to-improve-teaching.md",
+          "id": "5caa0527406c4a79ab0d748c329d421c",
+          "state": "stub",
+          "description": "Analyzing assessment data to inform instructional decisions."
+        }
       ]
     },
     {
       "title": "Classroom Management",
-      "description": "Techniques for creating and maintaining a positive and productive learning environment.",
       "topics": [
-        { "title": "Establishing Classroom Expectations", "description": "Setting clear and consistent expectations for student behavior.", "path": "instruction/establishing-classroom-expectations/establishing-classroom-expectations.md", "type": "instruction", "state": "stub" },
-        { "title": "Managing Disruptive Behavior", "description": "Strategies for addressing disruptive behavior in the classroom.", "path": "instruction/managing-disruptive-behavior/managing-disruptive-behavior.md", "type": "instruction", "state": "stub" },
-        { "title": "Creating a Positive Classroom Climate", "description": "Fostering a supportive and respectful learning environment.", "path": "instruction/creating-a-positive-classroom-climate/creating-a-positive-classroom-climate.md", "type": "instruction", "state": "stub" },
-        { "title": "Building Rapport with Students", "description": "Developing positive relationships with students.", "path": "instruction/building-rapport-with-students/building-rapport-with-students.md", "type": "instruction", "state": "stub" },
-        { "title": "Conflict Resolution Strategies", "description": "Techniques for resolving conflicts between students.", "path": "instruction/conflict-resolution-strategies/conflict-resolution-strategies.md", "type": "instruction", "state": "stub" },
-        { "title": "Time Management in the Classroom", "description": "Effectively managing class time to maximize learning.", "path": "instruction/time-management-in-the-classroom/time-management-in-the-classroom.md", "type": "instruction", "state": "stub" },
-        { "title": "Engaging Students in Large Classes", "description": "Strategies for engaging students in large lecture settings.", "path": "instruction/engaging-students-in-large-classes/engaging-students-in-large-classes.md", "type": "instruction", "state": "stub" },
-        { "title": "Using Humor in the Classroom", "description": "Incorporating humor to enhance student engagement and create a relaxed atmosphere.", "path": "instruction/using-humor-in-the-classroom/using-humor-in-the-classroom.md", "type": "instruction", "state": "stub" },
-        { "title": "Addressing Student Anxiety", "description": "Strategies for supporting students experiencing anxiety.", "path": "instruction/addressing-student-anxiety/addressing-student-anxiety.md", "type": "instruction", "state": "stub" },
-        { "title": "Promoting Academic Integrity", "description": "Strategies for preventing and addressing academic dishonesty.", "path": "instruction/promoting-academic-integrity/promoting-academic-integrity.md", "type": "instruction", "state": "stub" },
-        { "title": "Managing Online Discussions", "description": "Facilitating productive and respectful online discussions.", "path": "instruction/managing-online-discussions/managing-online-discussions.md", "type": "instruction", "state": "stub" },
-        { "title": "Creating a Safe Space", "description": "Making the classroom a safe and welcoming environment for all students.", "path": "instruction/creating-a-safe-space/creating-a-safe-space.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Establishing Classroom Expectations",
+          "type": "instruction",
+          "path": "instruction/establishing-classroom-expectations/establishing-classroom-expectations.md",
+          "id": "8494235cc0184372ac1b81bff630d338",
+          "state": "stub",
+          "description": "Setting clear and consistent expectations for student behavior."
+        },
+        {
+          "title": "Managing Disruptive Behavior",
+          "type": "instruction",
+          "path": "instruction/managing-disruptive-behavior/managing-disruptive-behavior.md",
+          "id": "e42d72917a8a4c30a03127395d2df131",
+          "state": "stub",
+          "description": "Strategies for addressing disruptive behavior in the classroom."
+        },
+        {
+          "title": "Creating a Positive Classroom Climate",
+          "type": "instruction",
+          "path": "instruction/creating-a-positive-classroom-climate/creating-a-positive-classroom-climate.md",
+          "id": "433d2b20fcd445a4b108d077b8478406",
+          "state": "stub",
+          "description": "Fostering a supportive and respectful learning environment."
+        },
+        {
+          "title": "Building Rapport with Students",
+          "type": "instruction",
+          "path": "instruction/building-rapport-with-students/building-rapport-with-students.md",
+          "id": "d65386954ff84490ad939b2ef1eb1267",
+          "state": "stub",
+          "description": "Developing positive relationships with students."
+        },
+        {
+          "title": "Conflict Resolution Strategies",
+          "type": "instruction",
+          "path": "instruction/conflict-resolution-strategies/conflict-resolution-strategies.md",
+          "id": "1cde3e3bc1bc47c698b664bd0e350eb1",
+          "state": "stub",
+          "description": "Techniques for resolving conflicts between students."
+        },
+        {
+          "title": "Time Management in the Classroom",
+          "type": "instruction",
+          "path": "instruction/time-management-in-the-classroom/time-management-in-the-classroom.md",
+          "id": "2f570af45d514144b87b10c756d66cd0",
+          "state": "stub",
+          "description": "Effectively managing class time to maximize learning."
+        },
+        {
+          "title": "Engaging Students in Large Classes",
+          "type": "instruction",
+          "path": "instruction/engaging-students-in-large-classes/engaging-students-in-large-classes.md",
+          "id": "4247f7ca15ba45c0b80b1ba5c48afd41",
+          "state": "stub",
+          "description": "Strategies for engaging students in large lecture settings."
+        },
+        {
+          "title": "Using Humor in the Classroom",
+          "type": "instruction",
+          "path": "instruction/using-humor-in-the-classroom/using-humor-in-the-classroom.md",
+          "id": "32b1cd0ac49348fcbacbad067df953b2",
+          "state": "stub",
+          "description": "Incorporating humor to enhance student engagement and create a relaxed atmosphere."
+        },
+        {
+          "title": "Addressing Student Anxiety",
+          "type": "instruction",
+          "path": "instruction/addressing-student-anxiety/addressing-student-anxiety.md",
+          "id": "8beb260f487d4330b9ce5176143f3afa",
+          "state": "stub",
+          "description": "Strategies for supporting students experiencing anxiety."
+        },
+        {
+          "title": "Promoting Academic Integrity",
+          "type": "instruction",
+          "path": "instruction/promoting-academic-integrity/promoting-academic-integrity.md",
+          "id": "91070507dbbc4a8fbd54d87222261549",
+          "state": "stub",
+          "description": "Strategies for preventing and addressing academic dishonesty."
+        },
+        {
+          "title": "Managing Online Discussions",
+          "type": "instruction",
+          "path": "instruction/managing-online-discussions/managing-online-discussions.md",
+          "id": "24c7e76de512442894ae8c8847d30487",
+          "state": "stub",
+          "description": "Facilitating productive and respectful online discussions."
+        },
+        {
+          "title": "Creating a Safe Space",
+          "type": "instruction",
+          "path": "instruction/creating-a-safe-space/creating-a-safe-space.md",
+          "id": "77146821dedb48268e9daec10d53c400",
+          "state": "stub",
+          "description": "Making the classroom a safe and welcoming environment for all students."
+        }
       ]
     },
     {
       "title": "Technology Enhanced Learning",
-      "description": "Exploring the use of technology to enhance teaching and learning.",
       "topics": [
-        { "title": "Learning Management Systems (LMS)", "description": "Using LMS platforms like Canvas, Blackboard, and Moodle.", "path": "instruction/learning-management-systems-lms/learning-management-systems-lms.md", "type": "instruction", "state": "stub" },
-        { "title": "Online Communication Tools", "description": "Utilizing tools like Slack, Microsoft Teams, and Discord for student communication.", "path": "instruction/online-communication-tools/online-communication-tools.md", "type": "instruction", "state": "stub" },
-        { "title": "Creating Online Lectures", "description": "Recording and delivering engaging online lectures.", "path": "instruction/creating-online-lectures/creating-online-lectures.md", "type": "instruction", "state": "stub" },
-        { "title": "Interactive Whiteboards", "description": "Using interactive whiteboards for collaborative learning.", "path": "instruction/interactive-whiteboards/interactive-whiteboards.md", "type": "instruction", "state": "stub" },
-        { "title": "Virtual Reality in Education", "description": "Exploring the use of VR and AR in teaching.", "path": "instruction/virtual-reality-in-education/virtual-reality-in-education.md", "type": "instruction", "state": "stub" },
-        { "title": "Gamification in Education", "description": "Incorporating game mechanics into the learning process.", "path": "instruction/gamification-in-education/gamification-in-education.md", "type": "instruction", "state": "stub" },
-        { "title": "Podcasting in Education", "description": "Creating and using podcasts for educational content.", "path": "instruction/podcasting-in-education/podcasting-in-education.md", "type": "instruction", "state": "stub" },
-        { "title": "Video Conferencing Tools", "description": "Using Zoom, Google Meet, and other tools for online meetings and classes.", "path": "instruction/video-conferencing-tools/video-conferencing-tools.md", "type": "instruction", "state": "stub" },
-        { "title": "Accessibility and Assistive Technology", "description": "Ensuring online content is accessible to all students.", "path": "instruction/accessibility-and-assistive-technology/accessibility-and-assistive-technology.md", "type": "instruction", "state": "stub" },
-        { "title": "Digital Storytelling", "description": "Using digital storytelling to engage students and enhance learning.", "path": "instruction/digital-storytelling/digital-storytelling.md", "type": "instruction", "state": "stub" },
-        { "title": "Open Educational Resources (OER)", "description": "Finding and using OER to reduce textbook costs and improve access.", "path": "instruction/open-educational-resources-oer/open-educational-resources-oer.md", "type": "instruction", "state": "stub" },
-        { "title": "Copyright and Fair Use", "description": "Understanding copyright law and fair use guidelines for educational materials.", "path": "instruction/copyright-and-fair-use/copyright-and-fair-use.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Learning Management Systems (LMS)",
+          "type": "instruction",
+          "path": "instruction/learning-management-systems-lms/learning-management-systems-lms.md",
+          "id": "086a6f02788b4a449de312f2f42aaf83",
+          "state": "stub",
+          "description": "Using LMS platforms like Canvas, Blackboard, and Moodle."
+        },
+        {
+          "title": "Online Communication Tools",
+          "type": "instruction",
+          "path": "instruction/online-communication-tools/online-communication-tools.md",
+          "id": "c8b0c714fb2942be92d5fe2f96925104",
+          "state": "stub",
+          "description": "Utilizing tools like Slack, Microsoft Teams, and Discord for student communication."
+        },
+        {
+          "title": "Creating Online Lectures",
+          "type": "instruction",
+          "path": "instruction/creating-online-lectures/creating-online-lectures.md",
+          "id": "5db77df03be84c3597ab0e0f1bc85720",
+          "state": "stub",
+          "description": "Recording and delivering engaging online lectures."
+        },
+        {
+          "title": "Interactive Whiteboards",
+          "type": "instruction",
+          "path": "instruction/interactive-whiteboards/interactive-whiteboards.md",
+          "id": "04bc4f6fc99846e7bbd801f8ebdbb84e",
+          "state": "stub",
+          "description": "Using interactive whiteboards for collaborative learning."
+        },
+        {
+          "title": "Virtual Reality in Education",
+          "type": "instruction",
+          "path": "instruction/virtual-reality-in-education/virtual-reality-in-education.md",
+          "id": "a874dd31f692429d8d77557a8bb9fa8c",
+          "state": "stub",
+          "description": "Exploring the use of VR and AR in teaching."
+        },
+        {
+          "title": "Gamification in Education",
+          "type": "instruction",
+          "path": "instruction/gamification-in-education/gamification-in-education.md",
+          "id": "5d73b1f3180f4bf4ae1a073f468a4a90",
+          "state": "stub",
+          "description": "Incorporating game mechanics into the learning process."
+        },
+        {
+          "title": "Podcasting in Education",
+          "type": "instruction",
+          "path": "instruction/podcasting-in-education/podcasting-in-education.md",
+          "id": "f20223bf23ac484694006e111dc07b1c",
+          "state": "stub",
+          "description": "Creating and using podcasts for educational content."
+        },
+        {
+          "title": "Video Conferencing Tools",
+          "type": "instruction",
+          "path": "instruction/video-conferencing-tools/video-conferencing-tools.md",
+          "id": "df4d7e236fe2491ebca67fc35639f19b",
+          "state": "stub",
+          "description": "Using Zoom, Google Meet, and other tools for online meetings and classes."
+        },
+        {
+          "title": "Accessibility and Assistive Technology",
+          "type": "instruction",
+          "path": "instruction/accessibility-and-assistive-technology/accessibility-and-assistive-technology.md",
+          "id": "09e7c30a2b7b4e9f88da28c726a63ba2",
+          "state": "stub",
+          "description": "Ensuring online content is accessible to all students."
+        },
+        {
+          "title": "Digital Storytelling",
+          "type": "instruction",
+          "path": "instruction/digital-storytelling/digital-storytelling.md",
+          "id": "d12d9e4cd4064aaa9067d740e66f2845",
+          "state": "stub",
+          "description": "Using digital storytelling to engage students and enhance learning."
+        },
+        {
+          "title": "Open Educational Resources (OER)",
+          "type": "instruction",
+          "path": "instruction/open-educational-resources-oer/open-educational-resources-oer.md",
+          "id": "eeac500373694381ace3d1d77f3818db",
+          "state": "stub",
+          "description": "Finding and using OER to reduce textbook costs and improve access."
+        },
+        {
+          "title": "Copyright and Fair Use",
+          "type": "instruction",
+          "path": "instruction/copyright-and-fair-use/copyright-and-fair-use.md",
+          "id": "6557988b7c0f43149b46477c1cacc606",
+          "state": "stub",
+          "description": "Understanding copyright law and fair use guidelines for educational materials."
+        }
       ]
     },
     {
       "title": "Supporting Student Success",
-      "description": "Strategies for supporting student well-being, academic success, and career development.",
       "topics": [
-        { "title": "Advising and Mentoring", "description": "Providing effective academic advising and mentoring to students.", "path": "instruction/advising-and-mentoring/advising-and-mentoring.md", "type": "instruction", "state": "stub" },
-        { "title": "Connecting Students to Resources", "description": "Linking students to campus resources and support services.", "path": "instruction/connecting-students-to-resources/connecting-students-to-resources.md", "type": "instruction", "state": "stub" },
-        { "title": "Promoting Student Well-being", "description": "Supporting student mental health and well-being.", "path": "instruction/promoting-student-well-being/promoting-student-well-being.md", "type": "instruction", "state": "stub" },
-        { "title": "Supporting First-Generation Students", "description": "Addressing the unique challenges faced by first-generation college students.", "path": "instruction/supporting-first-generation-students/supporting-first-generation-students.md", "type": "instruction", "state": "stub" },
-        { "title": "Supporting International Students", "description": "Addressing the needs of international students.", "path": "instruction/supporting-international-students/supporting-international-students.md", "type": "instruction", "state": "stub" },
-        { "title": "Supporting Students with Disabilities", "description": "Providing accommodations and support to students with disabilities.", "path": "instruction/supporting-students-with-disabilities/supporting-students-with-disabilities.md", "type": "instruction", "state": "stub" },
-        { "title": "Career Development Resources", "description": "Connecting students to career services and resources.", "path": "instruction/career-development-resources/career-development-resources.md", "type": "instruction", "state": "stub" },
-        { "title": "Resume and Cover Letter Writing", "description": "Guiding students in creating effective resumes and cover letters.", "path": "instruction/resume-and-cover-letter-writing/resume-and-cover-letter-writing.md", "type": "instruction", "state": "stub" },
-        { "title": "Interview Skills", "description": "Preparing students for job interviews.", "path": "instruction/interview-skills/interview-skills.md", "type": "instruction", "state": "stub" },
-        { "title": "Networking Strategies", "description": "Teaching students effective networking techniques.", "path": "instruction/networking-strategies/networking-strategies.md", "type": "instruction", "state": "stub" },
-        { "title": "Time Management Skills", "description": "Helping students develop effective time management skills.", "path": "instruction/time-management-skills/time-management-skills.md", "type": "instruction", "state": "stub" },
-        { "title": "Study Skills", "description": "Teaching effective study skills.", "path": "instruction/study-skills/study-skills.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Advising and Mentoring",
+          "type": "instruction",
+          "path": "instruction/advising-and-mentoring/advising-and-mentoring.md",
+          "id": "2b9ac27136e14872ba7368b1ff82f287",
+          "state": "stub",
+          "description": "Providing effective academic advising and mentoring to students."
+        },
+        {
+          "title": "Connecting Students to Resources",
+          "type": "instruction",
+          "path": "instruction/connecting-students-to-resources/connecting-students-to-resources.md",
+          "id": "ceda471e4dd147a3adbfa06081cbbb2c",
+          "state": "stub",
+          "description": "Linking students to campus resources and support services."
+        },
+        {
+          "title": "Promoting Student Well-being",
+          "type": "instruction",
+          "path": "instruction/promoting-student-well-being/promoting-student-well-being.md",
+          "id": "9e6d509eae084fd3be5000e8792d931a",
+          "state": "stub",
+          "description": "Supporting student mental health and well-being."
+        },
+        {
+          "title": "Supporting First-Generation Students",
+          "type": "instruction",
+          "path": "instruction/supporting-first-generation-students/supporting-first-generation-students.md",
+          "id": "18f64a2f8835425a958c9c7c6a1ce676",
+          "state": "stub",
+          "description": "Addressing the unique challenges faced by first-generation college students."
+        },
+        {
+          "title": "Supporting International Students",
+          "type": "instruction",
+          "path": "instruction/supporting-international-students/supporting-international-students.md",
+          "id": "ebf7497234104c249fb3b54931d4fc57",
+          "state": "stub",
+          "description": "Addressing the needs of international students."
+        },
+        {
+          "title": "Supporting Students with Disabilities",
+          "type": "instruction",
+          "path": "instruction/supporting-students-with-disabilities/supporting-students-with-disabilities.md",
+          "id": "62e2e0d521644ff5934913916ba07226",
+          "state": "stub",
+          "description": "Providing accommodations and support to students with disabilities."
+        },
+        {
+          "title": "Career Development Resources",
+          "type": "instruction",
+          "path": "instruction/career-development-resources/career-development-resources.md",
+          "id": "96e49d9762584f759a9ebe94116d1846",
+          "state": "stub",
+          "description": "Connecting students to career services and resources."
+        },
+        {
+          "title": "Resume and Cover Letter Writing",
+          "type": "instruction",
+          "path": "instruction/resume-and-cover-letter-writing/resume-and-cover-letter-writing.md",
+          "id": "23d9c7f2937e4b58a7c1a2ff6fc00dcb",
+          "state": "stub",
+          "description": "Guiding students in creating effective resumes and cover letters."
+        },
+        {
+          "title": "Interview Skills",
+          "type": "instruction",
+          "path": "instruction/interview-skills/interview-skills.md",
+          "id": "902bd5b5459f407a8db51a3064038443",
+          "state": "stub",
+          "description": "Preparing students for job interviews."
+        },
+        {
+          "title": "Networking Strategies",
+          "type": "instruction",
+          "path": "instruction/networking-strategies/networking-strategies.md",
+          "id": "31403bd9bde143a1ad8d9bc6a75748f7",
+          "state": "stub",
+          "description": "Teaching students effective networking techniques."
+        },
+        {
+          "title": "Time Management Skills",
+          "type": "instruction",
+          "path": "instruction/time-management-skills/time-management-skills.md",
+          "id": "2c354e5dfe6041d99d1e55a370d8682a",
+          "state": "stub",
+          "description": "Helping students develop effective time management skills."
+        },
+        {
+          "title": "Study Skills",
+          "type": "instruction",
+          "path": "instruction/study-skills/study-skills.md",
+          "id": "ec269d21ed1e416ba71e6b1f68746168",
+          "state": "stub",
+          "description": "Teaching effective study skills."
+        }
       ]
     },
     {
       "title": "Scholarship of Teaching and Learning (SoTL)",
-      "description": "An introduction to the scholarship of teaching and learning and its role in improving teaching practices.",
       "topics": [
-        { "title": "Introduction to SoTL", "description": "Understanding the principles and practices of SoTL.", "path": "instruction/introduction-to-sotl/introduction-to-sotl.md", "type": "instruction", "state": "stub" },
-        { "title": "Formulating SoTL Questions", "description": "Developing research questions related to teaching and learning.", "path": "instruction/formulating-sotl-questions/formulating-sotl-questions.md", "type": "instruction", "state": "stub" },
-        { "title": "Collecting Data for SoTL", "description": "Methods for collecting data to answer SoTL questions.", "path": "instruction/collecting-data-for-sotl/collecting-data-for-sotl.md", "type": "instruction", "state": "stub" },
-        { "title": "Analyzing SoTL Data", "description": "Analyzing data to draw conclusions about teaching and learning.", "path": "instruction/analyzing-sotl-data/analyzing-sotl-data.md", "type": "instruction", "state": "stub" },
-        { "title": "Disseminating SoTL Findings", "description": "Sharing SoTL findings with the wider academic community.", "path": "instruction/disseminating-sotl-findings/disseminating-sotl-findings.md", "type": "instruction", "state": "stub" },
-        { "title": "Ethical Considerations in SoTL", "description": "Navigating the ethical considerations of SoTL research.", "path": "instruction/ethical-considerations-in-sotl/ethical-considerations-in-sotl.md", "type": "instruction", "state": "stub" },
-        { "title": "SoTL and Teaching Improvement", "description": "Using SoTL to inform and improve teaching practices.", "path": "instruction/sotl-and-teaching-improvement/sotl-and-teaching-improvement.md", "type": "instruction", "state": "stub" },
-        { "title": "Finding SoTL Resources", "description": "Locating resources and support for SoTL research.", "path": "instruction/finding-sotl-resources/finding-sotl-resources.md", "type": "instruction", "state": "stub" },
-        { "title": "Collaborative SoTL Projects", "description": "Engaging in collaborative SoTL projects with colleagues.", "path": "instruction/collaborative-sotl-projects/collaborative-sotl-projects.md", "type": "instruction", "state": "stub" },
-        { "title": "Integrating SoTL into Teaching", "description": "Incorporating SoTL principles into daily teaching practices.", "path": "instruction/integrating-sotl-into-teaching/integrating-sotl-into-teaching.md", "type": "instruction", "state": "stub" },
-        { "title": "SoTL and Promotion & Tenure", "description": "How SoTL can contribute to promotion and tenure applications.", "path": "instruction/sotl-and-promotion-tenure/sotl-and-promotion-tenure.md", "type": "instruction", "state": "stub" },
-        { "title": "Benefits of SoTL", "description": "Exploring the benefits of engaging in SoTL for faculty and students.", "path": "instruction/benefits-of-sotl/benefits-of-sotl.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Introduction to SoTL",
+          "type": "instruction",
+          "path": "instruction/introduction-to-sotl/introduction-to-sotl.md",
+          "id": "62a290c423404fe4bfb6eca4e3e2c1d8",
+          "state": "stub",
+          "description": "Understanding the principles and practices of SoTL."
+        },
+        {
+          "title": "Formulating SoTL Questions",
+          "type": "instruction",
+          "path": "instruction/formulating-sotl-questions/formulating-sotl-questions.md",
+          "id": "895201b2685c439ab6fd54c102f1fe02",
+          "state": "stub",
+          "description": "Developing research questions related to teaching and learning."
+        },
+        {
+          "title": "Collecting Data for SoTL",
+          "type": "instruction",
+          "path": "instruction/collecting-data-for-sotl/collecting-data-for-sotl.md",
+          "id": "55898f121baf4a8d9791fbd142e49fc3",
+          "state": "stub",
+          "description": "Methods for collecting data to answer SoTL questions."
+        },
+        {
+          "title": "Analyzing SoTL Data",
+          "type": "instruction",
+          "path": "instruction/analyzing-sotl-data/analyzing-sotl-data.md",
+          "id": "d3715a39772142c4b016b56c81867b3e",
+          "state": "stub",
+          "description": "Analyzing data to draw conclusions about teaching and learning."
+        },
+        {
+          "title": "Disseminating SoTL Findings",
+          "type": "instruction",
+          "path": "instruction/disseminating-sotl-findings/disseminating-sotl-findings.md",
+          "id": "4d209bd1d4224dbf882c8fb948814470",
+          "state": "stub",
+          "description": "Sharing SoTL findings with the wider academic community."
+        },
+        {
+          "title": "Ethical Considerations in SoTL",
+          "type": "instruction",
+          "path": "instruction/ethical-considerations-in-sotl/ethical-considerations-in-sotl.md",
+          "id": "d627a36ef8064885b2609ed36e7363d6",
+          "state": "stub",
+          "description": "Navigating the ethical considerations of SoTL research."
+        },
+        {
+          "title": "SoTL and Teaching Improvement",
+          "type": "instruction",
+          "path": "instruction/sotl-and-teaching-improvement/sotl-and-teaching-improvement.md",
+          "id": "f45354665a5e4a789c6b78c2afabace1",
+          "state": "stub",
+          "description": "Using SoTL to inform and improve teaching practices."
+        },
+        {
+          "title": "Finding SoTL Resources",
+          "type": "instruction",
+          "path": "instruction/finding-sotl-resources/finding-sotl-resources.md",
+          "id": "b2d1546b5bd84f66a96f52b3d38354ff",
+          "state": "stub",
+          "description": "Locating resources and support for SoTL research."
+        },
+        {
+          "title": "Collaborative SoTL Projects",
+          "type": "instruction",
+          "path": "instruction/collaborative-sotl-projects/collaborative-sotl-projects.md",
+          "id": "38591ca452894af0a392a4645d79ec96",
+          "state": "stub",
+          "description": "Engaging in collaborative SoTL projects with colleagues."
+        },
+        {
+          "title": "Integrating SoTL into Teaching",
+          "type": "instruction",
+          "path": "instruction/integrating-sotl-into-teaching/integrating-sotl-into-teaching.md",
+          "id": "2d6aae0672a642daaab822961691286d",
+          "state": "stub",
+          "description": "Incorporating SoTL principles into daily teaching practices."
+        },
+        {
+          "title": "SoTL and Promotion & Tenure",
+          "type": "instruction",
+          "path": "instruction/sotl-and-promotion-tenure/sotl-and-promotion-tenure.md",
+          "id": "0109d3765a3c419a98fa14f14f6f6740",
+          "state": "stub",
+          "description": "How SoTL can contribute to promotion and tenure applications."
+        },
+        {
+          "title": "Benefits of SoTL",
+          "type": "instruction",
+          "path": "instruction/benefits-of-sotl/benefits-of-sotl.md",
+          "id": "8efaf3c978574111ac0f0e86f8e90c54",
+          "state": "stub",
+          "description": "Exploring the benefits of engaging in SoTL for faculty and students."
+        }
       ]
     },
     {
       "title": "Capstone Project: Course Design and Implementation",
-      "description": "Integrate the concepts learned throughout the course by designing and implementing a new course or significantly revising an existing one.",
       "topics": [
-        { "title": "Project Overview and Planning", "description": "Defining the scope and objectives of your capstone project.", "path": "instruction/project-overview-and-planning/project-overview-and-planning.md", "type": "instruction", "state": "stub" },
-        { "title": "Needs Assessment", "description": "Conducting a needs assessment to identify the learning needs of your target audience.", "path": "instruction/needs-assessment/needs-assessment.md", "type": "instruction", "state": "stub" },
-        { "title": "Learning Objectives and Outcomes", "description": "Developing clear and measurable learning objectives and outcomes for your course.", "path": "instruction/learning-objectives-and-outcomes/learning-objectives-and-outcomes.md", "type": "instruction", "state": "stub" },
-        { "title": "Course Content and Materials", "description": "Selecting and organizing relevant course content and materials.", "path": "instruction/course-content-and-materials/course-content-and-materials.md", "type": "instruction", "state": "stub" },
-        { "title": "Assessment Strategies", "description": "Designing appropriate assessment strategies to evaluate student learning.", "path": "instruction/assessment-strategies/assessment-strategies.md", "type": "instruction", "state": "stub" },
-        { "title": "Technology Integration", "description": "Integrating technology to enhance the learning experience.", "path": "instruction/technology-integration/technology-integration.md", "type": "instruction", "state": "stub" },
-        { "title": "Course Syllabus Development", "description": "Creating a comprehensive and informative course syllabus.", "path": "instruction/course-syllabus-development/course-syllabus-development.md", "type": "instruction", "state": "stub" },
-        { "title": "Implementation Plan", "description": "Developing a plan for implementing your course.", "path": "instruction/implementation-plan/implementation-plan.md", "type": "instruction", "state": "stub" },
-        { "title": "Pilot Testing", "description": "Conducting a pilot test of your course.", "path": "instruction/pilot-testing/pilot-testing.md", "type": "instruction", "state": "stub" },
-        { "title": "Evaluation and Reflection", "description": "Evaluating the effectiveness of your course and reflecting on your teaching practices.", "path": "instruction/evaluation-and-reflection/evaluation-and-reflection.md", "type": "instruction", "state": "stub" },
-        { "title": "Project Presentation", "description": "Presenting your capstone project to the class.", "path": "instruction/project-presentation/project-presentation.md", "type": "instruction", "state": "stub" },
-        { "title": "Final Project Submission", "description": "Submitting your final capstone project.", "path": "instruction/final-project-submission/final-project-submission.md", "type": "instruction", "state": "stub" }
+        {
+          "title": "Project Overview and Planning",
+          "type": "instruction",
+          "path": "instruction/project-overview-and-planning/project-overview-and-planning.md",
+          "id": "35aab6b2c6004d3691be7bf341604e49",
+          "state": "stub",
+          "description": "Defining the scope and objectives of your capstone project."
+        },
+        {
+          "title": "Needs Assessment",
+          "type": "instruction",
+          "path": "instruction/needs-assessment/needs-assessment.md",
+          "id": "8d0eafca3c1b4bbd86bbe99f2bf291e8",
+          "state": "stub",
+          "description": "Conducting a needs assessment to identify the learning needs of your target audience."
+        },
+        {
+          "title": "Learning Objectives and Outcomes",
+          "type": "instruction",
+          "path": "instruction/learning-objectives-and-outcomes/learning-objectives-and-outcomes.md",
+          "id": "59ebeaa4043b4e2fb3e79da0e13dbd7a",
+          "state": "stub",
+          "description": "Developing clear and measurable learning objectives and outcomes for your course."
+        },
+        {
+          "title": "Course Content and Materials",
+          "type": "instruction",
+          "path": "instruction/course-content-and-materials/course-content-and-materials.md",
+          "id": "81b7ce469b804cb58ed55cda0b996a25",
+          "state": "stub",
+          "description": "Selecting and organizing relevant course content and materials."
+        },
+        {
+          "title": "Assessment Strategies",
+          "type": "instruction",
+          "path": "instruction/assessment-strategies/assessment-strategies.md",
+          "id": "b723d2b6e08e44a492a586d273983957",
+          "state": "stub",
+          "description": "Designing appropriate assessment strategies to evaluate student learning."
+        },
+        {
+          "title": "Technology Integration",
+          "type": "instruction",
+          "path": "instruction/technology-integration/technology-integration.md",
+          "id": "86e08a233da34aeaba21a12c83b57751",
+          "state": "stub",
+          "description": "Integrating technology to enhance the learning experience."
+        },
+        {
+          "title": "Course Syllabus Development",
+          "type": "instruction",
+          "path": "instruction/course-syllabus-development/course-syllabus-development.md",
+          "id": "08379d8e850e446da20d60d2990ae65b",
+          "state": "stub",
+          "description": "Creating a comprehensive and informative course syllabus."
+        },
+        {
+          "title": "Implementation Plan",
+          "type": "instruction",
+          "path": "instruction/implementation-plan/implementation-plan.md",
+          "id": "f132776b3481402c8fe1c981b342c1e1",
+          "state": "stub",
+          "description": "Developing a plan for implementing your course."
+        },
+        {
+          "title": "Pilot Testing",
+          "type": "instruction",
+          "path": "instruction/pilot-testing/pilot-testing.md",
+          "id": "0b113ae511f842318161ced07c4f4e25",
+          "state": "stub",
+          "description": "Conducting a pilot test of your course."
+        },
+        {
+          "title": "Evaluation and Reflection",
+          "type": "instruction",
+          "path": "instruction/evaluation-and-reflection/evaluation-and-reflection.md",
+          "id": "57512c2162c04ec0b924f3b2564fefee",
+          "state": "stub",
+          "description": "Evaluating the effectiveness of your course and reflecting on your teaching practices."
+        },
+        {
+          "title": "Project Presentation",
+          "type": "instruction",
+          "path": "instruction/project-presentation/project-presentation.md",
+          "id": "79c09bbbdfd241ee8478b6e5de485de1",
+          "state": "stub",
+          "description": "Presenting your capstone project to the class."
+        },
+        {
+          "title": "Final Project Submission",
+          "type": "instruction",
+          "path": "instruction/final-project-submission/final-project-submission.md",
+          "id": "26e281a2c4d84b0a88ead1dab47a067b",
+          "state": "stub",
+          "description": "Submitting your final capstone project."
+        }
       ]
     }
   ]
