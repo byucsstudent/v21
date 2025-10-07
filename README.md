@@ -2,7 +2,7 @@
 
 Teaching at the university level is a rewarding, challenging, and constantly evolving endeavor. This course is designed to provide you with a solid foundation in the essential pedagogical principles, course design strategies, assessment techniques, and classroom management skills needed to thrive in this dynamic environment. Get ready to embark on a journey that will transform you from a content expert into an engaging and effective educator!
 
-![Students in a lecture hall listening to their professor.](https://images.unsplash.com/photo-1506744038136-46273834b3fb]
+![Students in a lecture hall listening to their professor.](https://images.unsplash.com/photo-1506744038136-46273834b3fb)
 
 Whether you're a seasoned researcher venturing into the classroom for the first time, or a current instructor seeking to refine your skills, this course will equip you with the tools and knowledge necessary to create meaningful learning experiences for your students. We'll explore everything from crafting engaging lectures to fostering a supportive and inclusive classroom environment. We will also discuss methods of evaluating mastery, helping and encouraging students, and classroom management.
 
